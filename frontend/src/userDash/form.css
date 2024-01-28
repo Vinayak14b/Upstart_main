@@ -1,0 +1,13 @@
+.FormFund form {
+    font-size: 20px;
+    letter-spacing: 2.0;
+    font-weight: bold;
+}
+
+.submitButton{
+    border: 2px solid #73AD21;
+    padding: 15px 40px 40px 25px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}

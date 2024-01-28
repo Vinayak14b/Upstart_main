@@ -1,0 +1,19 @@
+.nav-item{
+    margin-top: 2rem;
+    margin-left: -2rem;
+}
+.FormFund{
+    background-color: #0080bf;
+}
+
+.AppCard {
+    margin: 20px;
+    padding: 1.5rem;
+    max-width: 600px;
+    padding: 10px;
+    background-color: rgb(0, 0, 0, 0.7);
+    border: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 50px;
+}
